@@ -1,1 +1,1 @@
-echo 2-path
+echo "0-alias" , "2-path" , 2-path
