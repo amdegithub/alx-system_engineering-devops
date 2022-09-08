@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=3-paths 
+echo $PATH | tr ":" "\n" | wc -1
